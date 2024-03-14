@@ -47,9 +47,12 @@ html {
 
 .image-div{
     display: inline-block;
-    position: absolute;
-    top: 50px;
-    right: 50px;
+   
 }
 
+#image-1 {
+    position: absolute;
+    top: 50px;
+    right: 20vw;
+}
 .hidden
